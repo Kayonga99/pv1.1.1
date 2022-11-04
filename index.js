@@ -65,7 +65,7 @@ const projectPop = [
 
   {
     name: 'Book Store',
-    desc: "A single page bookstore app that allows the user to add and remove books with Author, Category and Title. Build with React and Redux.",
+    desc: 'A single page bookstore app that allows the user to add and remove books with Author, Category and Title. Build with React and Redux.',
     featuredImage: 'img/projects/bookStore/preview0.gif',
     miniImg: ['img/projects/bookStore/preview0.png', 'img/projects/bookStore/screenshot1.png', 'img/projects/bookStore/screenshot2.png', 'img/projects/bookStore/screenshot-m-1.png', 'img/projects/bookStore/screenshot-m-2.png'],
     technologies: ['HTML/CSS', 'React', 'API', 'Redux'],
@@ -108,7 +108,7 @@ const projectPop = [
     linkToLiveVersion: 'https://shiny-travesseiro-4d513a.netlify.app/',
     linkToSource: 'https://github.com/Kayonga99/Leaderboard',
   },
-   {
+  {
     name: 'Comming soon',
     desc: 'This project is still under development and review it will be displayed here as soon as it is ready!',
     featuredImage: 'img/projects/doctorApp/screenshot0.webp',
