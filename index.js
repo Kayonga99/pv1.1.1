@@ -38,11 +38,11 @@ const projectPop = [
   {
     name: 'NAC Pentecost',
     desc: "This project was built with a Mobile-first design perspective and it's mobile responsive. for the design, the main technologies in CSS are flexbox and media query. The Festival was inspired by the Boulevard urban music festival in Morocco.",
-    featuredImage: 'img/projects/marock/preview0.gif',
-    miniImg: ['img/projects/marock/preview0.png', 'img/projects/marock/preview1.png', 'img/projects/marock/preview2.png', 'img/projects/marock/preview3.png'],
+    featuredImage: 'img/projects/nac/preview0.gif',
+    miniImg: ['img/projects/nac/preview0.png', 'img/projects/nac/preview1.png', 'img/projects/nac/preview2.png', 'img/projects/nac/preview3.png'],
     technologies: ['HTML/CSS', 'Flexbox', 'JavaScript'],
-    linkToLiveVersion: 'https://ismailco.github.io/First-capstone-project_Conference-page/',
-    linkToSource: 'https://github.com/Ismailco/First-capstone-project_Conference-page',
+    linkToLiveVersion: 'https://kayonga99.github.io/NAC-Pentecost/',
+    linkToSource: 'https://github.com/Kayonga99/NAC-Pentecost',
   },
   {
     name: 'Math magicians',
@@ -65,12 +65,12 @@ const projectPop = [
 
   {
     name: 'Book Store',
-    desc: "This project was built in colaborations with jhonathan. We had to select an API (OMDb API) that provides data about Movies and then build the webapp around it. The webapp has 2 user interfaces, it's mobile responsive",
+    desc: "A single page bookstore app that allows the user to add and remove books with Author, Category and Title. Build with React and Redux.",
     featuredImage: 'img/projects/bookStore/preview0.gif',
     miniImg: ['img/projects/bookStore/preview0.png', 'img/projects/bookStore/screenshot1.png', 'img/projects/bookStore/screenshot2.png', 'img/projects/bookStore/screenshot-m-1.png', 'img/projects/bookStore/screenshot-m-2.png'],
-    technologies: ['HTML/CSS', 'JavaScript', 'API', 'Flexbox'],
-    linkToLiveVersion: 'https://movieguru.ml/',
-    linkToSource: 'https://github.com/Ismailco/Movies-Guru',
+    technologies: ['HTML/CSS', 'React', 'API', 'Redux'],
+    linkToLiveVersion: 'https://helpful-macaron-fb3edd.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/Bookstore',
   },
   {
     name: 'Awesome-books',
@@ -92,12 +92,12 @@ const projectPop = [
   },
   {
     name: 'Food App',
-    desc: 'This is a food and recipe app built using RoR, you can add food and create recipes with the food from the database. This user can log in to the app and store the recipes as private or share them publicly with all the users of the app. it also has a shopping list so the user can track foods that are not available anymore',
+    desc: 'This is a Javascript group Capstone, it displays diffrent food dishes and has a functionality to coment and like the dish you love',
     featuredImage: 'img/projects/jsCapstone/foodApp.gif',
     miniImg: ['img/projects/jsCapstone/screenshot1.png', 'img/projects/jsCapstone/screenshot2.png', 'img/projects/jsCapstone/screenshot3.png', 'img/projects/jsCapstone/screenshot4.png', 'img/projects/jsCapstone/screenshot5.png'],
-    technologies: ['Ruby', 'Ruby on Rails', 'Postgresql', 'Auth'],
-    linkToLiveVersion: 'https://mv-food-recipe-app.herokuapp.com/',
-    linkToSource: 'https://github.com/Ismailco/ROR-GROUP-PROJECT',
+    technologies: ['JavaScript', 'HTML/CSS'],
+    linkToLiveVersion: 'https://zippy-mochi-673645.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/Javascript-Capstone',
   },
   {
     name: 'Leaderboard',
