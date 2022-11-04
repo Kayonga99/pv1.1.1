@@ -93,7 +93,7 @@ const projectPop = [
   {
     name: 'Food App',
     desc: 'This is a food and recipe app built using RoR, you can add food and create recipes with the food from the database. This user can log in to the app and store the recipes as private or share them publicly with all the users of the app. it also has a shopping list so the user can track foods that are not available anymore',
-    featuredImage: 'img/projects/jsCapstone/foodApp.png',
+    featuredImage: 'img/projects/jsCapstone/foodApp.gif',
     miniImg: ['img/projects/jsCapstone/screenshot1.png', 'img/projects/jsCapstone/screenshot2.png', 'img/projects/jsCapstone/screenshot3.png', 'img/projects/jsCapstone/screenshot4.png', 'img/projects/jsCapstone/screenshot5.png'],
     technologies: ['Ruby', 'Ruby on Rails', 'Postgresql', 'Auth'],
     linkToLiveVersion: 'https://mv-food-recipe-app.herokuapp.com/',
